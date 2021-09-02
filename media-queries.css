@@ -1,0 +1,25 @@
+@media (max-width:320px) {
+    .foo {
+        display:none;
+    }
+}
+@media (max-width:321px) and (min-width:360px) {
+    .foo {
+        display:none;
+    }
+}
+@media (max-width:361px) and (min-width:375px) {
+    .foo {
+        display:none;
+    }
+}
+@media (max-width:376px) and (min-width:411px) {
+    .foo {
+        display:none;
+    }
+}
+@media (max-width:412px) and (min-width:414px) {
+    .foo {
+        display:none;
+    }
+}
