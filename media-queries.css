@@ -3,22 +3,22 @@
         display:none;
     }
 }
-@media (max-width:321px) and (min-width:360px) {
+@media (min-width:321px) and (max-width:360px) {
     .foo {
         display:none;
     }
 }
-@media (max-width:361px) and (min-width:375px) {
+@media (min-width:361px) and (max-width:375px) {
     .foo {
         display:none;
     }
 }
-@media (max-width:376px) and (min-width:411px) {
+@media (min-width:376px) and (max-width:411px) {
     .foo {
         display:none;
     }
 }
-@media (max-width:412px) and (min-width:414px) {
+@media (min-width:412px) and (max-width:414px) {
     .foo {
         display:none;
     }
